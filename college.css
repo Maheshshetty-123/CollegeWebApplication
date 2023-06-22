@@ -1,0 +1,178 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.head{
+    background-color: lightgray;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.head p{
+    margin-top: 15px;
+}
+
+.leftimg{
+    height: 80px;
+    width: 300px;
+    margin: 15px;
+    margin-left: 100px;
+}
+
+.secimg{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    margin: 25px;
+    margin-right: 200px;
+}
+
+.navimg{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbutton{
+    background-color: cadetblue;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: darkmagenta;
+    color: white;
+
+}
+
+.navbutton select{
+    width: 100px;
+    border: none;
+    background-color:darkmagenta;
+    color: white;
+    font-size: 13px;
+}
+#home{
+    background-color: darkmagenta;
+    border: none;
+    color: white;
+}
+
+.image{
+    margin: 15px;
+    width: 1600px;
+    height: 500px;
+}
+
+select:hover{
+background-color: blueviolet;
+}
+
+.maindiv{
+    display: flex;
+  
+    justify-content: space-between;
+}
+
+.lsubdiv{
+    margin-left: 50px;
+    width: 700px;
+    border: 1px solid lightslategray;
+    color: cornflowerblue;
+    font-size: 15px;
+}
+.lsubdiv p{
+    color: black;
+}
+
+#ql{
+    color: cornflowerblue;
+}
+.btn1{
+    background-color: brown;
+}
+.btn2{
+    background-color:blueviolet;
+}
+.btn3{
+    background-color:peru;
+}
+.btn4{
+    background-color:greenyellow;
+}
+.btn5{
+    background-color:darkmagenta;
+}
+
+
+.rsubdiv button{
+    border-radius: 5px;
+    margin-right: 200px;
+    width: 200px;
+}
+
+.mainvd{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+background-color:rgb(238, 225, 225);
+height: 500px;
+}
+
+.video{
+    width: 600px;
+    height: 300px;
+    background-color: black;
+}
+.video video{
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 500px;
+    height: 250px;
+    background-color: black;
+}
+
+.content{
+    margin-top: 60px;
+margin-left: 50px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+.content h3{
+    font-size: 20px;
+}
+
+#knowbtn{
+    background-color: midnightblue;
+    width: 150px;
+    margin-left: 40px;
+    color: white;
+}
+
+.lastdiv{
+    height: 300px;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/007/038/825/small/abstract-technology-concept-particle-connection-background-with-blue-lights-vector.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     color: white;
+
+     
+}
+.move{
+    margin-left:450px ;
+}
+.move h3{
+    background-color:rgba(1,1,1,0.1);
+}
+
+span img{
+    width: 40px;
+   height: 30px;
+}
+
+#last{
+    background-color: black;
+    color: white;
+}
